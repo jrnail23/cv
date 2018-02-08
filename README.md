@@ -1,2 +1,3 @@
-# cv
-James Nail's professional cv
+# James Nail's Professional Portfolio
+
+## [Resume](/resume.md)
