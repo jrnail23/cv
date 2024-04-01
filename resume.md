@@ -17,7 +17,7 @@ Single Page Applications (SPAs), microservices, DevOps, Design Patterns, OOP, Do
 ### Technologies
 - __Libraries / Frameworks:__ Node.js, React.js, React-router, TypeScript, Express.js, CSS, HTML5
 - __Testing Tools:__ Playwright, Cypress, Testing Library, Jest, Applitools Eyes (visual regression testing), Mocha, Sinon, Chai, Jasmine, xUnit.net, NUnit, AutoFixture, NSubstitute, Moq, WebDriver 
-- __Databases:__ Microsoft SQL Server, PostgreSQL, MySQL, Rethink (NoSQL)
+- __Databases:__ Microsoft SQL Server, PostgreSQL, MySQL, RethinkDB (NoSQL), Redis (cache)
 - __Dev / Ops Tools:__ Visual Studio Code, DataDog, AWS, NPM, pnpm, Yarn, NuGet, git/GitHub, Mercurial, TeamCity, CircleCI, Heroku, dotCover, NCover, NCrunch, ReSharper, MSBuild, MSDeploy (Web Deploy), psake, CakeBuild, NewRelic
 
 ## Experience
