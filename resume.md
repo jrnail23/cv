@@ -4,38 +4,39 @@ _Takoma Park, MD_
 - www.github.com/jrnail23
 
 ## Introduction
-Technical Lead / Senior software developer (13 yrs. professional experience), with expertise in .Net solution / application architecture and development, modern full-stack JavaScript development, Test-Driven Development (TDD), and the full software development lifecycle (SDLC), seeking a full-time position in a progressive, agile, team-oriented environment.
+Principal software engineer (19 yrs. professional experience), with expertise in modern full-stack JavaScript/TypeScript development, solution/application architecture, and the full software development lifecycle (SDLC), seeking a full-time position in a forward-thinking, lean, team-oriented environment.
 
 ## Technical Summary
 
 ### Relevant Languages
-JavaScript (9 years, 2 years ES6+), C# (9 years), SQL (13 years), CSS / HTML (13+ years)
+JavaScript (11 years, 5 years TypeScript), C# (9 years), SQL (19 years), CSS / HTML (19+ years)
 
 ### Concepts / Practices
-Single Page Applications (SPAs), microservices, SOLID principles, DevOps, Design Patterns, OOP, Domain-Driven Design (DDD), Command / Query Responsibility Segregation (CQRS), Test-Driven Development (TDD), unit testing, Extreme Programming (XP) / Agile practices, refactoring, Inversion of Control / Dependency Injection (IoC / DI), O/R Mapping (ORM), Behavior-Driven Development (BDD), Patterns of Enterprise Application Architecture, Release Management, Configuration Management, Continuous Delivery / Continuous Integration, REST/HTTP APIs, Service-Oriented Architecture (SOA), Root Cause Analysis, Problem Solving
+Single Page Applications (SPAs), microservices, DevOps, Design Patterns, OOP, Domain-Driven Design (DDD), Test-Driven Development (TDD), Agile development practices, refactoring, Release Management, Configuration Management, Continuous Delivery / Continuous Integration, REST/HTTP APIs, Root Cause Analysis, Problem Solving
 
 ### Technologies
-- __Libraries / Frameworks:__ Node.js, Express.js, React.js, Redux, Reselect, Recompose, Redux-saga, React-router, Pusher, Stylus, TypeScript, FlowType, ASP.Net WebAPI, ASP.Net MVC, WCF, jQuery, CSS, HTML5, NServiceBus, NHibernate, Autofac, StructureMap, AutoMapper, OWIN/Katana
-- __Testing Tools:__ Mocha, Sinon, Chai, Jasmine, xUnit.net, NUnit, AutoFixture, NSubstitute, Moq, Selenium WebDriver, SpecFlow, MSpec, WatiN, FluentAssertions
-- __Databases:__ Microsoft SQL Server, PostgreSQL
-- __Dev / Ops Tools:__ Visual Studio Code, Atom, Visual Studio, NPM, Yarn, NuGet, git/GitHub, Mercurial, TFS, TeamCity, CircleCI, Heroku, dotCover, NCover, NCrunch, ReSharper, MSBuild, MSDeploy (Web Deploy), psake, CakeBuild, NewRelic
-
-### Training Courses
-- Domain-Driven Design Immersion, by Eric Evans
-- Agile Development Bootcamp, by Jeffrey Palermo
-- Modern JavaScript Development, by Tim G. Thomas
-
-### Community
-- Open Source user
-- past contributor to [cake-build](https://github.com/cake-build/cake), [shortbus](https://github.com/mhinze/ShortBus)
-- DC Alt.net user group
+- __Libraries / Frameworks:__ Node.js, React.js, React-router, TypeScript, Express.js, CSS, HTML5
+- __Testing Tools:__ Playwright, Cypress, Testing Library, Jest, Applitools Eyes (visual regression testing), Mocha, Sinon, Chai, Jasmine, xUnit.net, NUnit, AutoFixture, NSubstitute, Moq, WebDriver 
+- __Databases:__ Microsoft SQL Server, PostgreSQL, MySQL, Rethink (NoSQL)
+- __Dev / Ops Tools:__ Visual Studio Code, DataDog, AWS, NPM, pnpm, Yarn, NuGet, git/GitHub, Mercurial, TeamCity, CircleCI, Heroku, dotCover, NCover, NCrunch, ReSharper, MSBuild, MSDeploy (Web Deploy), psake, CakeBuild, NewRelic
 
 ## Experience
+
+### Cvent, Tysons Corner, VA (Mar 2018 - Present)
+_Cvent is an industry-leading meetings, events, and hospitality technology provider.
+
+#### Principal Software Engineer
+#### Lead Software Engineer
+
+### Social Tables, Washington, DC (Mar 2018 - October 2018)
+_Social Tables, a startup in the event management and diagramming space, was acquired by Cvent in October 2018.
+
+#### Sr. Software Engineer
 
 ### Lanetix, Arlington, VA (Nov 2015 - Jan 2018)
 _Lanetix, headquartered in San Francisco, is a venture capital-backed firm offering cloud-based CRM solutions for shipping and logistics providers._
 
-### Sr. Software Engineer
+#### Sr. Software Engineer
 - Full-stack JavaScript development, using React with Redux on the front-end and Node.js / Express.js / PostgreSQL on the back-end.
 - Refactored and migrated several UI sub-applications from separate Flux stores to a single global Redux store
 - Designed and implemented real-time data updates pushed to the browser using WebSockets via Pusher, coordinated via redux-saga
@@ -118,20 +119,7 @@ _Digital Campaigns is a venture capital-funded software firm which develops cust
 - Basic web UI development using MASON/Perl, HTML, CSS
 - Data hygeine and migration
 
-### Various Political Campaigns (1998-2003)
-#### Staffer for political campaigns in La. (1998, 1999, 2003), Tex. (2000, 2002), Fla. (2001), N.J. (2001), Ark. (2002)
-- Developed numerous custom CRM-style database solutions in MS Access/VBA to manage voters, donors/donations/fundraising prospects, political events, and other campaign activities.
-- Voter database management (MS Access / SQL Server)
-- Statistical data analysis, modeling, and reporting of voter databases, election results and census data
-- Data hygeine, USPS CASS processing
-- GIS Mapping via ESRI ArcView 
-
 ## Education
 ### Louisiana State University
 _Baton Rouge, LA_
-- B.A., Political Science, 2000
-- President, College Democrats at LSU, 1997-1998 academic year
-- Summer Intern, U.S. Senator John Breaux (La.), Washington, DC, June 1996
-### Assumption High School
-_Napoleonville, LA_
-- Graduate, class of 1994
+- B.A., Political Science
