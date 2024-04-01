@@ -22,13 +22,13 @@ Single Page Applications (SPAs), microservices, DevOps, Design Patterns, OOP, Do
 
 ## Experience
 
-### Cvent, Tysons Corner, VA (Mar 2018 - Present)
+### Cvent, Tysons Corner, VA (Oct 2018 - Present)
 _Cvent is an industry-leading meetings, events, and hospitality technology provider._
 
 #### Principal Software Engineer
 #### Lead Software Engineer
 
-### Social Tables, Washington, DC (Mar 2018 - October 2018)
+### Social Tables, Washington, DC (Mar 2018 - Oct 2018)
 _Social Tables, a startup in the event management and diagramming space, was acquired by Cvent in October 2018._
 
 #### Sr. Software Engineer
