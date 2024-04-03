@@ -12,11 +12,11 @@ Principal software engineer (19 yrs. professional experience), with expertise in
 JavaScript (11 years, 5 years TypeScript), C# (9 years), SQL (19 years), CSS / HTML (19+ years)
 
 ### Concepts / Practices
-Single Page Applications (SPAs), microservices, DevOps, Design Patterns, OOP, Domain-Driven Design (DDD), Test-Driven Development (TDD), Agile development practices, refactoring, Release Management, Configuration Management, Continuous Delivery / Continuous Integration, REST/HTTP APIs, Root Cause Analysis, Problem Solving
+Single Page Applications (SPAs), microservices, DevOps, Design Patterns, OOP, Domain-Driven Design (DDD), Test-Driven Development (TDD), Agile development practices, refactoring, Release Management, Configuration Management, Continuous Delivery / Continuous Integration, REST/HTTP APIs, Root Cause Analysis, Problem Solving, Mentoring
 
 ### Technologies
-- __Libraries / Frameworks:__ Node.js, React.js, React-router, TypeScript, Express.js, CSS, HTML5
-- __Testing Tools:__ Playwright, Cypress, Testing Library, Jest, Applitools Eyes (visual regression testing), Mocha, Sinon, Chai, Jasmine, xUnit.net, NUnit, AutoFixture, NSubstitute, Moq, WebDriver 
+- __Libraries / Frameworks:__ Node.js, React.js, React-router, TypeScript, Express.js, KoaJS, CSS, HTML5
+- __Testing Tools:__ Playwright, Cypress, Testing Library, Jest, Applitools Eyes (visual regression testing), WebDriver
 - __Databases:__ Microsoft SQL Server, PostgreSQL, MySQL, RethinkDB (NoSQL), Redis (cache)
 - __Dev / Ops Tools:__ Visual Studio Code, DataDog, AWS, NPM, pnpm, Yarn, NuGet, git/GitHub, Mercurial, TeamCity, CircleCI, Heroku, dotCover, NCover, NCrunch, ReSharper, MSBuild, MSDeploy (Web Deploy), psake, CakeBuild, NewRelic
 
@@ -25,13 +25,17 @@ Single Page Applications (SPAs), microservices, DevOps, Design Patterns, OOP, Do
 ### Cvent, Tysons Corner, VA (Oct 2018 - Present)
 _Cvent is an industry-leading meetings, events, and hospitality technology provider._
 
-#### Principal Software Engineer
-#### Lead Software Engineer
+#### Principal Software Engineer (Feb 2022 - Present)
+#### Lead Software Engineer (Jun 2020 - Feb 2022)
+- Technical lead of [Interactive Floor Plans (IFP)](https://connect.socialtables.com/site/1568/floors) product team, delivering a full overhaul and UI redesign of an existing legacy application. In addition to successfully delivering the new UI, we added localization (via Phrase and `formatjs`) and achieved VPAT accessibility compliance, all while increasing test coverage from 0 to ~80% (not counting end-to-end and visual regression tests).
 
 ### Social Tables, Washington, DC (Mar 2018 - Oct 2018)
 _Social Tables, a startup in the event management and diagramming space, was acquired by Cvent in October 2018._
 
 #### Sr. Software Engineer
+- Pioneered R&D initiative to introduce Continuous Delivery to Social Tables teams, including authoring several CircleCI configuration "orbs."
+- Developed tooling to virtualize HTTP and GraphQL dependencies to enhance functional testing for web applications.
+- Developed Social Tables' standard logging library, which adds tracking of asynchronous execution contexts using NodeJS's `AsyncLocalStorage` to logging functionality via `pino`.
 
 ### Lanetix, Arlington, VA (Nov 2015 - Jan 2018)
 _Lanetix, headquartered in San Francisco, is a venture capital-backed firm offering cloud-based CRM solutions for shipping and logistics providers._
@@ -54,13 +58,13 @@ _The National Rural Electric Cooperative Association is a trade association of 7
 - Identifying and remediating existing technical debt
 - Mentoring / coaching developers and advising project/feature teams’ design and implementation efforts
 - Development of high-impact / critical software components as needed
-- Thought leadership, advocating for continuous improvement of software practices 
+- Thought leadership, advocating for continuous improvement of software practices
 
 #### Sr. Application Developer / Advisor, level 119/T123 (Feb 2011 - Jun 2013)
-- Led design, architecture, and ongoing development of NEB’s next generation development platform to provide a path to sustainable development and introduce our developers to good software development principles and practices (i.e., Continuous Delivery, SOLID principles, TDD, etc.).  All new features are now developed on this platform, and existing features are migrated over on an ongoing basis. 
-- Developed custom ASP.Net Site Map provider to integrate our primarily Umbraco-based site structure with external SharePoint content. 
-- Developed shared internal login site to enable testers to impersonate users in any of our non-production application environments. 
-- Joined collaborative development team for high-profile project to implement single sign-on (SSO), two-factor authentication and corresponding support/admin application for NRECA’s public portal websites. 
+- Led design, architecture, and ongoing development of NEB’s next generation development platform to provide a path to sustainable development and introduce our developers to good software development principles and practices (i.e., Continuous Delivery, SOLID principles, TDD, etc.).  All new features are now developed on this platform, and existing features are migrated over on an ongoing basis.
+- Developed custom ASP.Net Site Map provider to integrate our primarily Umbraco-based site structure with external SharePoint content.
+- Developed shared internal login site to enable testers to impersonate users in any of our non-production application environments.
+- Joined collaborative development team for high-profile project to implement single sign-on (SSO), two-factor authentication and corresponding support/admin application for NRECA’s public portal websites.
 
 ### NGP VAN, Washington, DC (Feb 2005 - Jan 2011)
 _NGP VAN, Inc. (formerly NGP Software, Inc.) is the leading provider of software solutions and technology consulting for Democratic and progressive political organizations across the country.   Products include Campaign Office Online (COO -- web-based CRM / fundraising management / compliance application), Contribution Web Package (CWP -- web-based COO add-on to process online credit card contributions for campaigns), and NGP Field (web-based voter contact management application)._
@@ -68,7 +72,7 @@ _NGP VAN, Inc. (formerly NGP Software, Inc.) is the leading provider of software
 #### Software Developer, NGP Labs Division (Apr 2010 - Jan 2011)
 - Designing, developing requirements, and implementing Call Time management application, a web-based COO add-on to manage and facilitate campaign fundraising "call time" processes.
   - Tech Details: C# 4.0, ASP.Net MVC 3.0 (Razor view engine), integration with COO/CWP API via ASMX Web Services, unit testing with nUnit & Moq, dependency injection via StructureMap, Domain-Driven-Design, O/R mapping via NHibernate, Ajax/dynamic UI using unobtrusive jQuery/JavaScript/jQuery UI/jqGrid/HTML5/CSS
-- Designed and implemented complete re-write of CampaignOffice Mobile (http://m.myngp.com), a web-based COO add-on to enable access to key fundraising / contact information via browser-enabled mobile devices, including enhancements to provide processing of credit-card payments. 
+- Designed and implemented complete re-write of CampaignOffice Mobile (http://m.myngp.com), a web-based COO add-on to enable access to key fundraising / contact information via browser-enabled mobile devices, including enhancements to provide processing of credit-card payments.
   - Tech Details: C# 4.0, ASP.Net MVC 2.0 (WebForms view engine), integration with COO/CWP API via ASMX Web Services, TDD (nUnit, Moq), browser testing via WatiN, dependency injection via StructureMap.
 
 #### Technical Lead, COO / CWP Current Generation Product Team (Nov 2008 - Apr 2010)
@@ -88,7 +92,7 @@ _NGP VAN, Inc. (formerly NGP Software, Inc.) is the leading provider of software
 - Developed internal application to create and manage manual QA test script assignments and execution using TFS API & NHibernate.
 
 #### Lead Developer / Product Owner, NGP Field Product (Jan 2006 - Jan 2007)
-- Overhauled barcode scanning data entry system to enhance efficiency and user experience using Ajax, ASP.Net. 
+- Overhauled barcode scanning data entry system to enhance efficiency and user experience using Ajax, ASP.Net.
 - Enhanced application functionality and increased application capacity for NGP Field from 100,000 records to 3 million +, enabling sales to larger, more sophisticated campaigns.
 - Overhauled application reporting features to increase capacity and improve usability, added capability for custom reports using ASP.Net, MS SQL Server Reporting Services (SSRS).
 - Provided extensive on-site and remote support, training, and strategic consulting services
@@ -107,7 +111,7 @@ _Grassroots Solutions is one of the country’s leading political consulting fir
 - GIS Mapping via ESRI ArcView
 - Developed custom software solutions, including:
   - MS Access / VBA desktop application to track door-to-door canvassing and phone banking activities featuring rapid bar-coded data entry.
-  - MS Excel / VBA application to automate processing of political targeting data. 
+  - MS Excel / VBA application to automate processing of political targeting data.
 
 ### Digital Campaigns, Palo Alto, CA (Dec 2003 - Jul 2004)
 _Digital Campaigns is a venture capital-funded software firm which develops customized web-based applications for political campaigns and non-profit organizations._
